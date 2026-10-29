@@ -7,6 +7,15 @@
         <language>en</language>
         <item>
             <title>1.0.0</title>
+            <pubDate>Thu, 29 Oct 2026 21:59:13 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/chuanhai-luo/Magpie_Release/releases/download/mac-v1.0.0-build3/Magpie-1.0.0-build3.zip" length="13542891" type="application/octet-stream" sparkle:edSignature="2ss66iq6dy85m2alalA5T+/hm0aVU1TOlV2OMPi8PqS3kGlufK3VfR2QUlpKT4lsIG7oUjR47oizVFaSCvJdCA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Mon, 26 Oct 2026 22:07:18 +0800</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
